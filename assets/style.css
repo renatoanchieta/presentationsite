@@ -132,3 +132,10 @@ body {
 .section7 p {
     padding: 1rem 0;
 }
+
+.footer {
+    padding: 1rem;
+    font-size: 0.8rem;
+    color: #c7c7c7;
+    text-align: center;
+}
